@@ -17,13 +17,13 @@ Robotics, Machine Learning, Data Engineering, Cloud, API Development, Applicatio
 
 # 🚀 Projects
 - [Slam and Navigation with a Differential Drive Robot using ROS2 and NAV2](https://github.com/andimin182/DiffRobot-ROS2-Navigation)
-- Control and simulation of a 6DoF robot Staubli TX40 using Moveit2
-- Control and simulation of a 3DoF (RRR) manipulator using Moveit2, pick and place task with MTC
-- 4-wheels Ackermann Steering Car with Raspi 4: control with Mobile Application via ROS2, Object detection 
+- [Control and simulation of a 6DoF robot Staubli TX40 using Moveit2](https://github.com/andimin182/moveit-staubli)
+- [Control and simulation of a 3DoF (RRR) manipulator using Moveit2, pick and place task with MTC](https://github.com/andimin182/robot_manipulator)
+- [4-wheels Ackermann Steering Car with Raspi 4: control with Mobile Application via ROS2, Object detection](https://github.com/andimin182/RobotCar)
 
 # 🌱 What I'm Learning
 AI Agents, RAG, LLM, FastAPI, Cloud, n8n, Data Visualization & Analysis
 
 # 📫 How to Reach Me
 - Email: andimindru@gmail.com
-- Linkedin: https://www.linkedin.com/in/andimindru/
+- [Linkedin](https://www.linkedin.com/in/andimindru/)
