@@ -16,13 +16,13 @@ Python C++ ROS2 ROS1 Matlab Simulink Docker Git Twincat3 Gazebo CoppeliaSim Bash
 Robotics, Machine Learning, Data Engineering, Cloud, API Development, Application Development
 
 # 🚀 Projects
-SmartShop.io: Personalized grocery item recommendation system using ML & deep learning.
-Retail Store Analytics: Computer vision & SQL-powered retail analytics platform for real-time insights.
-ChatGPT-Next-Web: Cutting-edge conversational AI web interface.
+- [Slam and Navigation with a Differential Drive Robot using ROS2 and NAV2](https://github.com/andimin182/DiffRobot-ROS2-Navigation)
+- Control and simulation of a 6DoF robot Staubli TX40 using Moveit2
+- Control and simulation of a 3DoF (RRR) manipulator using Moveit2, pick and place task with MTC
+- 4-wheels Ackermann Steering Car with Raspi 4: control with Mobile Application via ROS2, Object detection 
 
 # 🌱 What I'm Learning
-Advanced deep learning, NLP, and cloud-native ML model deployment
-Building robust, scalable APIs and contributing to open-source projects
+AI Agents, RAG, LLM, FastAPI, Cloud, n8n, Data Visualization & Analysis
 
 # 📫 How to Reach Me
 - Email: andimindru@gmail.com
