@@ -20,6 +20,7 @@ Robotics, Machine Learning, Data Engineering, Cloud, API Development, Applicatio
 - [Control and simulation of a 6DoF robot Staubli TX40 using Moveit2](https://github.com/andimin182/moveit-staubli)
 - [Control and simulation of a 3DoF (RRR) manipulator using Moveit2, pick and place task with MTC](https://github.com/andimin182/robot_manipulator)
 - [4-wheels Ackermann Steering Car with Raspi 4: control with Mobile Application via ROS2, Object detection](https://github.com/andimin182/RobotCar)
+- [RAG Chatbot with Hugging Face Infered LLM Model and LlamaIndex](https://github.com/andimin182/RAGchatbot)
 
 # 🌱 What I'm Learning
 AI Agents, RAG, LLM, FastAPI, Cloud, n8n, Data Visualization & Analysis
